@@ -1,5 +1,7 @@
 # RAML to WIKI
 
+[![Join the chat at https://gitter.im/jhitchcock/raml2wiki](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jhitchcock/raml2wiki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A simple RAML to Wiki (Confluence / JIRA Markup) documentation generator, written for Node.js.
 
 ## Confluence / Jira wiki Process
